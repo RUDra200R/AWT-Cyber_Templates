@@ -47,3 +47,12 @@ footer p {
   cursor: pointer;
   height: 8rem;
 }
+.details-container{
+  padding-left: 50px;
+}
+.text-container{
+  padding-left: 50px;
+}
+.container{
+  padding-left: 20px;
+}
